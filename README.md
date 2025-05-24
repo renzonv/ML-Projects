@@ -1,0 +1,1 @@
+In this project, I intend to use a Logit regression to develop a model that can accurately predict what is the grade of satisfaction with the state of the economy in the population of France based on the data gathered by the European Social Survey 11.
